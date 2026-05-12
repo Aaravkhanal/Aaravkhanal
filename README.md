@@ -1,16 +1,19 @@
-## Hi there 👋
+# $ whoami
 
-<!--
-**Aaravkhanal/Aaravkhanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+────────────────────────────────────────
+  Aarav Khanal
+  AI/ML Engineer in the making
+────────────────────────────────────────
+  Focus   → AI/ML · Systems · Full-Stack
+  Status  → Always building
+────────────────────────────────────────
 
-Here are some ideas to get you started:
+## Current Status
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+aarav = {
+    "learning": ["ML", "DL", "System Design"],
+    "building": ["AI agents", "real-world products"],
+    "sleep_schedule": "optional",
+}
+```
