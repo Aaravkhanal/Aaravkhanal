@@ -3,6 +3,7 @@
 # Aarav Khanal
 
 ### Founder • Builder • AI Engineer
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A855F7&width=700&height=80&lines=Building+AI+Agents;Generative+AI+Explorer;Creating+Futuristic+Projects" alt="Typing SVG" /></a>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+AI+Agents;Generative+AI+Explorer;Creating+Futuristic+Projects;Always+Shipping" />
 
