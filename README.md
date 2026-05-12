@@ -2,19 +2,11 @@
 
 # Aarav Khanal
 
-### Founder • Builder • AI Engineer
+### Freelancer • Builder • AI Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&height=50&lines=Building+AI+Agents;Generative+AI+Explorer;Creating+Futuristic+Projects;Always+Shipping" />
-
-</div>
-
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+AI+Agents;Generative+AI+Explorer;Creating+Futuristic+Projects;Always+Shipping" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=A855F7&center=true&vCenter=true&width=600&height=50&lines=Building+AI+Agents;Generative+AI+Explorer;Creating+Futuristic+Projects;Always+Shipping" />
 
 </div>
-
----
 
 ```bash
 $ whoami
