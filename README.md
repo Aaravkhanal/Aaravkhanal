@@ -1,5 +1,14 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=160&section=header" />
+
 <h1 align="center">Hi, I'm Aarav Khanal 👋</h1>
-<h3 align="center">AI/ML Engineer in the making · Building Gen AI products & intelligent agents</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML+Engineer+in+the+making;Building+Gen+AI+Products+%26+Agents;Turning+Ideas+Into+Working+Systems&font=Fira+Code&center=true&width=600&height=40&color=0e75b6&vCenter=true&size=20" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=%24+whoami;Aarav+Khanal+%E2%80%94+BMS+College+of+Engineering;Role%3A+AI%2FML+Engineer+in+the+making;Focus%3A+Gen+AI+%C2%B7+AI+Agents+%C2%B7+Full-Stack;Status%3A+Building+something+new...&font=Fira+Code&center=true&width=600&height=140&color=39d353&vCenter=true&size=16&pause=1500&background=0D1117FF&repeat=true" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aaravkhanal&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -61,3 +70,5 @@ I'm a student at **BMS College of Engineering**, focused on **Generative AI, AI 
 <p align="center">
   <i>Thanks for visiting — let's build something great. 🚀</i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=120&section=footer" />
