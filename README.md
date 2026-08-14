@@ -64,6 +64,14 @@ Currently:
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,docker,git,linux,vscode" />
 
+**AI Models & APIs**
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-5b21b6?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
 <br/>
 
 ## ⟡ AI / ML Expertise
@@ -71,10 +79,10 @@ Currently:
 | Domain | Proficiency | Details |
 |---|---|---|
 | Computer Vision | Advanced | Image classification, transfer learning, severity/accident detection pipelines |
-| Generative AI | Advanced | LLM-powered apps, prompt engineering, Gemini Vision integration |
-| Multi-Agent Systems | Intermediate–Advanced | Agent orchestration, reasoning workflows, voice (TTS/STT) integration |
+| Generative AI | Advanced | LLM-powered apps, prompt engineering, multi-model pipelines (OpenAI, Claude, Gemini) |
+| Multi-Agent Systems | Intermediate–Advanced | Agent orchestration, reasoning workflows, voice (TTS/STT) integration, RAG-backed assistants |
 | Deep Learning | Intermediate | CNNs, model training & fine-tuning, PyTorch/TensorFlow pipelines |
-| Applied ML for Real-World Systems | Advanced | Healthcare, emergency response, sustainability-focused ML applications |
+| Applied ML for Real-World Systems | Advanced | Competitive intelligence, code generation, web performance monitoring, sustainability-focused ML applications |
 
 <br/>
 
@@ -115,47 +123,72 @@ A modern AI ecosystem designed to streamline machine learning workflows and acce
 </details>
 
 <details open>
-<summary><b>emergency-ai-platform</b></summary>
+<summary><b>Nexora AI</b></summary>
 <br/>
 
-AI model that detects accidents and their severity, automatically sending SMS alerts to emergency contacts based on severity level.
+An autonomous, AI-powered company intelligence platform for executives, investors, and strategists. Instead of manually scraping Crunchbase, Wikipedia, GitHub, and news sites, you input a company name and Nexora orchestrates a swarm of AI agents to crawl the web, synthesize unstructured data, and generate an interactive executive dashboard — backed by a persistent RAG knowledge base with an always-on AI Assistant for deep strategic questions.
 
 | | |
 |---|---|
-| **Stack** | Python · React · JS · TypeScript |
-| **Scale** | Real-time detection-to-alert pipeline |
-| **Performance** | Severity-based automated decision routing |
-| **Security** | Contact data handled with restricted access patterns |
-| **Impact** | Reduces emergency response time through automated severity-aware alerts |
-| **Repository** | [github.com/Aaravkhanal/emergency-ai-platform](https://github.com/Aaravkhanal/emergency-ai-platform) |
+| **Stack** | Multi-agent orchestration · RAG · Web crawling/data synthesis |
+| **Scale** | Automated research across multiple data sources per company |
+| **Performance** | Agent swarm parallelizes crawling, financial mapping, and tech-stack identification |
+| **Security** | Persistent knowledge base with scoped, query-based access |
+| **Impact** | Replaces hours of manual competitor and market research with a single query |
+| **Repository** | [github.com/Aaravkhanal/NEXORA-AI](https://github.com/Aaravkhanal/NEXORA-AI) |
 
 </details>
 
 <details open>
-<summary><b>fashion_ai (AUЯA)</b></summary>
+<summary><b>FrameFlow AI</b></summary>
 <br/>
 
-A next-generation fashion technology platform bridging digital shopping and physical reality — using Gemini Vision to analyze user-uploaded photos and generate a digital fashion experience.
+An AI-powered code generation platform that converts visual interfaces, screenshots, Figma design files, website URLs, and screen recordings into clean, responsive, production-ready frontend code.
 
 | | |
 |---|---|
-| **Stack** | Python · React · TypeScript · CSS |
-| **Scale** | Vision-model-driven personalization pipeline |
-| **Performance** | Gemini Vision-powered image analysis |
-| **Security** | User image data processed with privacy-conscious handling |
-| **Impact** | Closes the gap between digital try-on and physical shopping experience |
-| **Repository** | [github.com/Aaravkhanal/fashion_ai](https://github.com/Aaravkhanal/fashion_ai) |
+| **Stack** | Multi-Model AI Pipeline (OpenAI, Anthropic Claude, Google Gemini, Replicate) |
+| **Scale** | Consensus engine analyzes input designs across multiple LLMs |
+| **Performance** | High-accuracy code generation with live previews and multi-file project exports |
+| **Security** | Design-input handling isolated per generation request |
+| **Impact** | Collapses design-to-code turnaround from hours to minutes |
+| **Repository** | [github.com/Aaravkhanal/Frameflow-ai](https://github.com/Aaravkhanal/Frameflow-ai) |
 
 </details>
 
+<details open>
+<summary><b>ProjectMind AI</b></summary>
 <br/>
 
-**Other Projects**
+A production-grade, BYOK Multi-Agent AI Engineering Platform built on top of your existing codebase. It automatically discovers what AI tools you already have, learns from your codebase over time, routes every task to the best available model, and lets multiple AI agents collaborate on your code — without sending your API keys anywhere.
 
-| Project | Description | Repository |
-|---|---|---|
-| **MedExplain AI** ⚕️ | AI-powered web app that translates complex medical reports into simple, patient-friendly explanations | [View repo](https://github.com/Aaravkhanal/medicalreportanalyzer) |
-| **Smart-Waste-Segregation-System** | Smart waste segregation system using transfer learning to classify waste categories and support automated recycling | [View repo](https://github.com/Aaravkhanal/Smart-Waste-Segregation-System) |
+| | |
+|---|---|
+| **Stack** | Multi-agent orchestration · BYOK model routing · Codebase-aware learning |
+| **Scale** | Turns any project into an intelligent, agent-collaborative AI workspace |
+| **Performance** | Dynamic routing sends each task to the best-fit available model |
+| **Security** | BYOK design — API keys never leave the user's environment |
+| **Impact** | Brings multi-agent collaboration to existing codebases without vendor lock-in |
+| **Repository** | [github.com/Aaravkhanal/ProjectMind-AI](https://github.com/Aaravkhanal/ProjectMind-AI) |
+
+</details>
+
+<details open>
+<summary><b>Vibe-AI</b></summary>
+<br/>
+
+A next-generation web performance and health monitoring platform. Vibe-AI automates Google Lighthouse scanning across entire websites, using concurrent workers and smart sampling to catch performance regressions before they hit production — with an enterprise-grade UI, cloud-ready storage adapters, and Google Chrome UX Report (CrUX) integration.
+
+| | |
+|---|---|
+| **Stack** | Concurrent worker architecture · Lighthouse automation · CrUX integration |
+| **Scale** | Site-wide scanning via concurrent workers and smart sampling |
+| **Performance** | Detects performance regressions pre-production, not after |
+| **Security** | Cloud-ready storage adapters for enterprise deployment |
+| **Impact** | Gives teams a single dashboard for ongoing web performance and health monitoring |
+| **Repository** | [github.com/Aaravkhanal/VIBE-AI](https://github.com/Aaravkhanal/VIBE-AI) |
+
+</details>
 
 <br/>
 
@@ -210,8 +243,8 @@ Learning:
   - Advanced multi-agent reasoning architectures
 
 Building:
-  - Production-ready AI products across healthcare, safety, and sustainability
-  - Voice-driven and vision-driven AI interfaces
+  - Production-ready AI products across research, code generation, and performance monitoring
+  - Multi-model AI pipelines and RAG-backed assistants
 
 Exploring:
   - Applied generative AI for real-world automation
