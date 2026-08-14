@@ -27,6 +27,14 @@
 <img src="https://img.shields.io/github/followers/Aaravkhanal?label=FOLLOWERS&style=for-the-badge&color=7c3aed&labelColor=312e81" />
 <img src="https://img.shields.io/github/stars/Aaravkhanal?label=STARS&style=for-the-badge&color=a78bfa&labelColor=312e81" />
 
+<br/><br/>
+
+<a href="#-about">About</a> •
+<a href="#-tech-stack">Tech Stack</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-github-analytics">Analytics</a> •
+<a href="#-connect">Connect</a>
+
 </div>
 
 <br/>
@@ -43,6 +51,14 @@ Currently:
   Sharpening:    Deep learning, distributed systems, system design
   Open to:       Internships, collaborations, research-driven engineering roles
 ```
+
+<div align="center">
+
+| 🚀 Shipped Products | 🤖 Multi-Agent Systems | 🧠 AI Models Integrated | 🎯 Focus Areas |
+|:---:|:---:|:---:|:---:|
+| 6+ | 4 | OpenAI · Claude · Gemini | Gen AI · CV · Agents |
+
+</div>
 
 <br/>
 
@@ -87,6 +103,19 @@ Currently:
 <br/>
 
 ## ⟡ Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Aaravkhanal/NEXORA-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aaravkhanal&repo=NEXORA-AI&theme=tokyonight&bg_color=0d0820&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&hide_border=true" />
+</a>
+<a href="https://github.com/Aaravkhanal/ProjectMind-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aaravkhanal&repo=ProjectMind-AI&theme=tokyonight&bg_color=0d0820&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&hide_border=true" />
+</a>
+
+</div>
+
+<br/>
 
 <details open>
 <summary><b>Jubidate_ai</b></summary>
