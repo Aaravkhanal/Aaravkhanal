@@ -56,7 +56,7 @@ Currently:
 
 | 🚀 Shipped Products | 🤖 Multi-Agent Systems | 🧠 AI Models Integrated | 🎯 Focus Areas |
 |:---:|:---:|:---:|:---:|
-| 6+ | 4 | OpenAI · Claude · Gemini | Gen AI · CV · Agents |
+| 6+ | 6 | OpenAI · Claude · Gemini · Groq · NVIDIA NIM · DeepSeek | Gen AI · CV · Agents |
 
 </div>
 
@@ -85,8 +85,9 @@ Currently:
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=lightning&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG-5b21b6?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 
 <br/>
 
@@ -94,11 +95,11 @@ Currently:
 
 | Domain | Proficiency | Details |
 |---|---|---|
+| Multi-Agent Systems | Advanced | Agent debate/vote/reflect pipelines, agent swarms, LangGraph orchestration, RAG-backed assistants |
+| Generative AI | Advanced | Multi-model consensus engines, prompt engineering, LLM gateways across 15+ providers |
+| Applied ML for Real-World Systems | Advanced | AutoML, XAI (SHAP/LIME), engineering intelligence, competitive research automation |
 | Computer Vision | Advanced | Image classification, transfer learning, severity/accident detection pipelines |
-| Generative AI | Advanced | LLM-powered apps, prompt engineering, multi-model pipelines (OpenAI, Claude, Gemini) |
-| Multi-Agent Systems | Intermediate–Advanced | Agent orchestration, reasoning workflows, voice (TTS/STT) integration, RAG-backed assistants |
 | Deep Learning | Intermediate | CNNs, model training & fine-tuning, PyTorch/TensorFlow pipelines |
-| Applied ML for Real-World Systems | Advanced | Competitive intelligence, code generation, web performance monitoring, sustainability-focused ML applications |
 
 <br/>
 
@@ -106,11 +107,11 @@ Currently:
 
 <div align="center">
 
-<a href="https://github.com/Aaravkhanal/NEXORA-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aaravkhanal&repo=NEXORA-AI&theme=tokyonight&bg_color=0d0820&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&hide_border=true" />
-</a>
 <a href="https://github.com/Aaravkhanal/ProjectMind-AI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aaravkhanal&repo=ProjectMind-AI&theme=tokyonight&bg_color=0d0820&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&hide_border=true" />
+</a>
+<a href="https://github.com/Aaravkhanal/NEXORA-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aaravkhanal&repo=NEXORA-AI&theme=tokyonight&bg_color=0d0820&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&hide_border=true" />
 </a>
 
 </div>
@@ -118,104 +119,106 @@ Currently:
 <br/>
 
 <details open>
-<summary><b>Jubidate_ai</b></summary>
+<summary><b>🧠 ProjectMind AI — BYOK Multi-Agent AI Engineering Platform</b></summary>
 <br/>
 
-Multi-agent AI orchestration platform featuring strategic simulations, voice interaction (TTS/STT), and advanced reasoning workflows.
+A production-grade platform that turns any codebase into a self-improving AI workspace. It auto-discovers your IDE, API keys, local models, and MCP servers on startup, then runs Architect, Security, and Quality agents in parallel over every review — synthesized into a single verdict by a dedicated Synthesizer agent. A persistent **Repository Brain** learns from every review to surface hotspots, tech debt, and contributor insights over time, while an intelligent router picks the right model for each task and downgrades automatically when the budget is tight. Ships with a published VS Code extension.
 
 | | |
 |---|---|
-| **Stack** | Python · TypeScript · React · JS |
-| **Scale** | Multi-agent orchestration with concurrent reasoning chains |
-| **Performance** | Real-time voice interaction via TTS/STT pipelines |
-| **Security** | Isolated agent execution contexts |
-| **Impact** | Demonstrates coordinated multi-agent reasoning beyond single-LLM workflows |
-| **Repository** | [github.com/Aaravkhanal/Jubidate_ai](https://github.com/Aaravkhanal/Jubidate_ai) |
+| **Stack** | FastAPI · LangGraph · SQLite · 15+ LLM providers via LiteLLM |
+| **Scale** | 93 REST endpoints across 21 feature domains |
+| **Performance** | Environment capability scan completes in under 200ms |
+| **Security** | Fernet-encrypted BYOK key storage — keys never leave your machine |
+| **Impact** | Multi-agent code review + persistent project memory + cost-aware model routing, all in one platform |
+| **Repository** | [github.com/Aaravkhanal/ProjectMind-AI](https://github.com/Aaravkhanal/ProjectMind-AI) |
+| **Extension** | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=aaravkhanal.projectmind) |
 
 </details>
 
 <details open>
-<summary><b>Neural Forge</b></summary>
+<summary><b>🕸️ Nexora AI — Autonomous Company Intelligence Platform</b></summary>
 <br/>
 
-A modern AI ecosystem designed to streamline machine learning workflows and accelerate experimentation and innovation.
+Enter a company name and Nexora dispatches a swarm of async agents to crawl the web, then routes the raw data through a Multi-LLM pipeline (Llama 3.3 via Groq + Gemini Pro) split into Financial, Product & Competitor, Strategic (SWOT), and Reviewer agents. Results stream to the frontend live over Server-Sent Events and render as an interactive executive dashboard, while every finding is embedded into a per-company ChromaDB knowledge base powering an always-on RAG assistant for follow-up questions.
 
 | | |
 |---|---|
-| **Stack** | Python · React · TypeScript · JS |
-| **Scale** | End-to-end ML workflow tooling |
-| **Performance** | Streamlined pipeline from experimentation to deployment |
-| **Security** | Structured workflow isolation |
-| **Impact** | Reduces friction in iterating on ML experiments and models |
-| **Repository** | [github.com/Aaravkhanal/NEURALFORGEAI](https://github.com/Aaravkhanal/NEURALFORGEAI) |
-
-</details>
-
-<details open>
-<summary><b>Nexora AI</b></summary>
-<br/>
-
-An autonomous, AI-powered company intelligence platform for executives, investors, and strategists. Instead of manually scraping Crunchbase, Wikipedia, GitHub, and news sites, you input a company name and Nexora orchestrates a swarm of AI agents to crawl the web, synthesize unstructured data, and generate an interactive executive dashboard — backed by a persistent RAG knowledge base with an always-on AI Assistant for deep strategic questions.
-
-| | |
-|---|---|
-| **Stack** | Multi-agent orchestration · RAG · Web crawling/data synthesis |
-| **Scale** | Automated research across multiple data sources per company |
-| **Performance** | Agent swarm parallelizes crawling, financial mapping, and tech-stack identification |
-| **Security** | Persistent knowledge base with scoped, query-based access |
-| **Impact** | Replaces hours of manual competitor and market research with a single query |
+| **Stack** | Next.js · FastAPI · LangChain · Groq (Llama 3.3) · Gemini · ChromaDB |
+| **Scale** | Parallel agent swarm with token-bucket rate limiting across multiple data sources |
+| **Performance** | Real-time SSE progress streaming from job submission to finished dashboard |
+| **Security** | Isolated, per-company vector store with a Reviewer agent guarding against hallucination |
+| **Impact** | Collapses hours of manual competitor/financial research into a single query |
 | **Repository** | [github.com/Aaravkhanal/NEXORA-AI](https://github.com/Aaravkhanal/NEXORA-AI) |
 
 </details>
 
 <details open>
-<summary><b>FrameFlow AI</b></summary>
+<summary><b>⚡ FrameFlow AI — Design-to-Code Consensus Engine</b></summary>
 <br/>
 
-An AI-powered code generation platform that converts visual interfaces, screenshots, Figma design files, website URLs, and screen recordings into clean, responsive, production-ready frontend code.
+Converts screenshots, Figma files, live website URLs, or screen recordings into production-ready frontend code. Instead of trusting one model's output, FrameFlow runs a Multi-Model AI Consensus pipeline across OpenAI, Anthropic Claude, and Google Gemini simultaneously and reconciles their outputs for higher structural accuracy, with live multi-viewport previews and one-click multi-file ZIP export. Backed by 228 automated backend tests.
 
 | | |
 |---|---|
-| **Stack** | Multi-Model AI Pipeline (OpenAI, Anthropic Claude, Google Gemini, Replicate) |
-| **Scale** | Consensus engine analyzes input designs across multiple LLMs |
-| **Performance** | High-accuracy code generation with live previews and multi-file project exports |
-| **Security** | Design-input handling isolated per generation request |
-| **Impact** | Collapses design-to-code turnaround from hours to minutes |
+| **Stack** | React · Vite · FastAPI · Supabase (PostgreSQL) · OpenAI · Claude · Gemini · Replicate |
+| **Scale** | Outputs React, Vue, HTML+Tailwind, Bootstrap, and Ionic from a single input |
+| **Performance** | 228 automated pytest cases covering the generation pipeline |
+| **Security** | Supabase Auth with JWT verification, bcrypt hashing, and Row-Level Security |
+| **Impact** | Cuts design-to-code turnaround from hours to seconds without locking into one model's blind spots |
 | **Repository** | [github.com/Aaravkhanal/Frameflow-ai](https://github.com/Aaravkhanal/Frameflow-ai) |
 
 </details>
 
 <details open>
-<summary><b>ProjectMind AI</b></summary>
+<summary><b>🌌 Jubidate — Strategic Intelligence OS</b></summary>
 <br/>
 
-A production-grade, BYOK Multi-Agent AI Engineering Platform built on top of your existing codebase. It automatically discovers what AI tools you already have, learns from your codebase over time, routes every task to the best available model, and lets multiple AI agents collaborate on your code — without sending your API keys anywhere.
+A "Command Center" for AI-assisted reasoning, not just another chatbot. Jubidate assigns live model instances distinct roles — Pro Advocate, Con Advocate, and Judge — and streams their real-time debate over WebSockets until the Judge adjudicates a winner and produces an actionable strategic summary, complete with evidence-quality warnings and unresolved points. Fully deployed and publicly demoable.
 
 | | |
 |---|---|
-| **Stack** | Multi-agent orchestration · BYOK model routing · Codebase-aware learning |
-| **Scale** | Turns any project into an intelligent, agent-collaborative AI workspace |
-| **Performance** | Dynamic routing sends each task to the best-fit available model |
-| **Security** | BYOK design — API keys never leave the user's environment |
-| **Impact** | Brings multi-agent collaboration to existing codebases without vendor lock-in |
-| **Repository** | [github.com/Aaravkhanal/ProjectMind-AI](https://github.com/Aaravkhanal/ProjectMind-AI) |
+| **Stack** | Next.js 15 · React 19 · FastAPI · WebSockets · LiteLLM · NVIDIA NIM · Gemini/Groq |
+| **Scale** | Turn-based and concurrent multi-agent generation streams |
+| **Performance** | Live multi-turn WebSocket debate streaming with real-time UI state sync |
+| **Security** | Structured session logging with isolated per-role model instances |
+| **Impact** | Reframes AI interaction from single-turn Q&A into adversarial, self-checking analysis |
+| **Repository** | [github.com/Aaravkhanal/Jubidate_ai](https://github.com/Aaravkhanal/Jubidate_ai) |
+| **Live Demo** | [jubidate-ai.vercel.app](https://jubidate-ai.vercel.app/) · [API docs](https://jubidateai-production.up.railway.app/docs) |
 
 </details>
 
 <details open>
-<summary><b>Vibe-AI</b></summary>
+<summary><b>📈 Vibe-AI — Enterprise Web Vitals & Optimization Platform</b></summary>
 <br/>
 
-A next-generation web performance and health monitoring platform. Vibe-AI automates Google Lighthouse scanning across entire websites, using concurrent workers and smart sampling to catch performance regressions before they hit production — with an enterprise-grade UI, cloud-ready storage adapters, and Google Chrome UX Report (CrUX) integration.
+Automates Google Lighthouse scanning across entire websites using Puppeteer clustering, with smart sampling that groups dynamic routes (like blog posts) to avoid redundant scans and real-world Web Vitals pulled straight from Google's CrUX dataset. Its standout feature: a 3-round multi-agent AI debate among DeepSeek, MiniMax, GLM, and Gemini that peer-reviews performance data to converge on optimization strategies, deployable as either a local CLI or a full multi-tenant SaaS.
 
 | | |
 |---|---|
-| **Stack** | Concurrent worker architecture · Lighthouse automation · CrUX integration |
-| **Scale** | Site-wide scanning via concurrent workers and smart sampling |
-| **Performance** | Detects performance regressions pre-production, not after |
-| **Security** | Cloud-ready storage adapters for enterprise deployment |
-| **Impact** | Gives teams a single dashboard for ongoing web performance and health monitoring |
+| **Stack** | TypeScript · Vue 3 · Nitro/H3 · Puppeteer clustering · DeepSeek · MiniMax · GLM · Gemini |
+| **Scale** | Site-wide concurrent scanning with automated route discovery via crawl or sitemap |
+| **Performance** | Catches performance regressions pre-production via continuous audit scheduling |
+| **Security** | Cloud-ready storage adapters; ships with guidance for auth-gated deployment |
+| **Impact** | Turns raw Lighthouse scores into consensus-driven, actionable optimization plans |
 | **Repository** | [github.com/Aaravkhanal/VIBE-AI](https://github.com/Aaravkhanal/VIBE-AI) |
+
+</details>
+
+<details open>
+<summary><b>🔮 Neural Forge — Multi-Agent AutoML Platform</b></summary>
+<br/>
+
+Guides ML work from raw CSV to containerized deployment through 10 specialized LLM agents (Data Scientist, ML Engineer, DevOps, and more) that collaborate at each stage — automated data cleaning, AutoML training/tuning across XGBoost/Random Forest/LightGBM, and export to 7+ formats. Its XAI Playground pairs SHAP and LIME visualizations with an "AI Teacher Mode" that explains model predictions in plain English.
+
+| | |
+|---|---|
+| **Stack** | Next.js · FastAPI · LangChain/LangGraph · Scikit-Learn · XGBoost · SHAP/LIME · Docker |
+| **Scale** | 10-agent orchestration spanning the full ML lifecycle |
+| **Performance** | One-click deployment package generation (FastAPI + Docker + Streamlit) |
+| **Security** | Containerized deployment artifacts with reproducible training reports |
+| **Impact** | Makes AutoML and model explainability accessible without deep ML tooling expertise |
+| **Repository** | [github.com/Aaravkhanal/NEURALFORGEAI](https://github.com/Aaravkhanal/NEURALFORGEAI) |
 
 </details>
 
@@ -272,8 +275,8 @@ Learning:
   - Advanced multi-agent reasoning architectures
 
 Building:
-  - Production-ready AI products across research, code generation, and performance monitoring
-  - Multi-model AI pipelines and RAG-backed assistants
+  - Production-ready AI products across engineering intelligence, research, and performance monitoring
+  - Multi-model consensus and debate pipelines with persistent memory
 
 Exploring:
   - Applied generative AI for real-world automation
