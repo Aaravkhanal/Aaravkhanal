@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Aarav+Khanal;AI+%2F+ML+Engineer;Full-Stack+%2B+Gen+AI+Builder;Turning+Ideas+Into+Production+Systems&font=Fira+Code&center=true&width=700&height=50&color=a78bfa&vCenter=true&size=24&pause=2000" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Aarav+Khanal;AI+%2F+ML+Engineer;Full-Stack+%2B+Gen+AI+Builder;10%2B+Production+AI+Systems+Shipped&font=Fira+Code&center=true&width=700&height=50&color=a78bfa&vCenter=true&size=24&pause=2000" />
 
 <br/>
 
@@ -39,6 +39,7 @@
 
 <br/>
 
+<a id="-about"></a>
 ## ⟡ About
 
 I'm an AI/ML and full-stack engineer focused on building production-grade systems at the intersection of **generative AI, computer vision, and multi-agent orchestration**. My work spans from training and deploying models to shipping complete end-to-end products — APIs, interfaces, and infrastructure included.
@@ -56,12 +57,13 @@ Currently:
 
 | 🚀 Shipped Products | 🤖 Multi-Agent Systems | 🧠 AI Models Integrated | 🎯 Focus Areas |
 |:---:|:---:|:---:|:---:|
-| 6+ | 6 | OpenAI · Claude · Gemini · Groq · NVIDIA NIM · DeepSeek | Gen AI · CV · Agents |
+| 10+ | 10+ | OpenAI · Claude · Gemini · Groq · NVIDIA NIM · DeepSeek | Gen AI · CV · Agents |
 
 </div>
 
 <br/>
 
+<a id="-tech-stack"></a>
 ## ⟡ Tech Stack
 
 **Languages**
@@ -103,6 +105,11 @@ Currently:
 
 <br/>
 
+**💬 Ask me about:** `Multi-Agent Orchestration` · `RAG Pipelines` · `LLM Gateways & Model Routing` · `Prompt Engineering` · `AutoML & XAI` · `Computer Vision` · `Full-Stack AI Products`
+
+<br/>
+
+<a id="-featured-projects"></a>
 ## ⟡ Featured Projects
 
 <div align="center">
@@ -224,6 +231,13 @@ Guides ML work from raw CSV to containerized deployment through 10 specialized L
 
 <br/>
 
+<div align="center">
+⭐ If any of these projects are useful to you, a star on the repo goes a long way.
+</div>
+
+<br/>
+
+<a id="-github-analytics"></a>
 ## ⟡ GitHub Analytics
 
 <div align="center">
@@ -289,6 +303,7 @@ Open To:
 
 <br/>
 
+<a id="-connect"></a>
 ## ⟡ Connect
 
 <div align="center">
