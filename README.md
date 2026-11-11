@@ -10,11 +10,10 @@ I like taking an idea from the first experiment through to a tool people can use
 
 | Project | What it does |
 | --- | --- |
+| [MY-LLM](https://github.com/Aaravkhanal/MY-LLM) | A decoder-only language model trained from scratch, with a tokenizer, training and evaluation pipeline, fine-tuning, terminal chat, and API. |
 | [UnderstandVideo AI](https://github.com/Aaravkhanal/understandvideo-ai) · [Live app](https://understandvideo-ai.onrender.com) | Search and explore videos through transcripts, scene navigation, and timestamp-linked answers. |
-| [ProjectMind AI](https://github.com/Aaravkhanal/ProjectMind-AI) | Multi-agent code review with project context and model choice. |
 | [FrameFlow AI](https://github.com/Aaravkhanal/Frameflow-ai) | Turns screenshots, Figma designs, and website references into frontend starting points. |
 | [Nexora AI](https://github.com/Aaravkhanal/NEXORA-AI) | Company research gathered into an interactive dashboard with follow-up questions. |
-| [MY-LLM](https://github.com/Aaravkhanal/MY-LLM) | A decoder-only language model trained from scratch, with a tokenizer, training and evaluation pipeline, fine-tuning, terminal chat, and API. |
 | [NeuralForge AI](https://github.com/Aaravkhanal/NEURALFORGEAI) | Multi-agent AutoML and explainability workflows, from dataset cleaning through model export. |
 | [Jubidate AI](https://github.com/Aaravkhanal/Jubidate_ai) | AI agents debate a question from different positions and return a reasoned summary. |
 
@@ -22,7 +21,19 @@ I like taking an idea from the first experiment through to a tool people can use
 
 | Project | Question and current status |
 | --- | --- |
-| [Canary Study: Memorization vs. Compositional Creativity](https://github.com/Aaravkhanal/canary-memorization-study) | A controlled study of how repeated story elements affect language-model exposure and recall. The computational experiments and exposure analysis are complete; blinded human novelty ratings remain unfinished, so the project does not claim a memorization–creativity trade-off. |
+| [Canary Study: Memorization vs. Compositional Creativity](https://github.com/Aaravkhanal/canary-memorization-study) | A controlled study of how repeated story elements affect language-model exposure and recall. Computational experiments and exposure analysis are complete; blinded human novelty ratings remain unfinished, so the project makes no memorization–creativity trade-off claim. |
+
+## Open source contributions
+
+Merged pull requests in repositories I don't own:
+
+| Repository | Contribution |
+| --- | --- |
+| [Vercel AI SDK](https://github.com/vercel/ai/pull/24488) | Fixed inherited media-type signature names causing runtime errors and added regression tests. |
+| [Google ADK Web](https://github.com/google/adk-web/pull/560) | Encoded artifact filenames in request URLs and added regression coverage. |
+| [Langflow](https://github.com/langflow-ai/langflow/pull/16024) | Added rate-limit-aware batching and retry behavior to Batch Run. |
+| [Google Elephant-Goldfish Model](https://github.com/google/elephant-goldfish-model/pull/217) · [follow-up](https://github.com/google/elephant-goldfish-model/pull/225) | Improved release artifact verification and clarified Claude runtime regeneration guidance. |
+| [Microsoft Intelligent Terminal](https://github.com/microsoft/intelligent-terminal/pull/1312) | Improved agent toolbar contrast and theme-aware controls. |
 
 ## Terminal-based projects
 
