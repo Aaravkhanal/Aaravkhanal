@@ -25,7 +25,7 @@ I like taking an idea from the first experiment through to a tool people can use
 
 ## Open source contributions
 
-Merged pull requests in repositories I don't own:
+Merged pull requests:
 
 | Repository | Contribution |
 | --- | --- |
